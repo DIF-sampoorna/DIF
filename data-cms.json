@@ -1,0 +1,394 @@
+{
+  "HERO_VIDEOS": [
+    "/Video.mp4",
+    "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  ],
+  "BLOG_POSTS": [
+    {
+      "id": 1,
+      "title": "Expanding Care: DIF Initiates Mental Health & Cognitive-Emotional Resilience Toolkits in Faridabad",
+      "excerpt": "Deepjyoti India Foundation has successfully extended its field operations into Faridabad, Haryana, launching interactive mental wellness workshops for school cohorts and underserved communities.",
+      "content": [
+        "FARIDABAD, HARYANA — In our continuous mission to bring emotional literacy and psychological safety directly to grassroots communities, Deepjyoti India Foundation (DIF) is proud to announce the launch of its secondary intervention base in Faridabad, Haryana.",
+        "Building on the robust foundation established by our teams in Guwahati and Mumbai, this expansion represents a significant milestone in our regional outreach. The new Faridabad cluster will initially focus on children and youth cohorts, deploying our proprietary Cognitive-Emotional Resilience Toolkits. These toolkits are designed to equip adolescents with practical emotional regulation tools, anxiety management methods, and collaborative healing exercises.",
+        "The program was kicked off at two state schools in Faridabad with interactive group circles led by certified emotional counsellors. Over 250 students participated in these initial circles, learning to articulate emotional baselines and construct personal coping guides. Initial feedback has been overwhelmingly positive, with teachers reporting noticeable improvements in classroom attentiveness and cooperative problem-solving.",
+        "We extend our sincere gratitude to our regional volunteers, donors, and school administrators who made this deployment possible. If you are located in the Delhi-NCR area and wish to join this initiative as an emotional literacy facilitator, please reach out to us through our Volunteer Network."
+      ],
+      "category": "Field Operations",
+      "author": "Research & Outreach Team",
+      "authorRole": "Guwahati Desk Lead",
+      "date": "June 24, 2026",
+      "readTime": "4 min read",
+      "imageColor": "bg-mhe-teal-light",
+      "emoji": "⛺",
+      "likes": 42
+    },
+    {
+      "id": 2,
+      "title": "Owning Your Feelings (OYF): Empathetic Listening Networks Across Guwahati & Mumbai Naka",
+      "excerpt": "An inside look at our flagship mental health initiative. Learn how OYF's empathetic listening networks are creating safe spaces for youth to articulate emotional boundaries and manage anxiety.",
+      "content": [
+        "GUWAHATI / MUMBAI — The rapid pace of modern life, academic pressure, and changing societal structures have created an unprecedented surge in youth anxiety and emotional distress. At Deepjyoti India Foundation, we believe that emotional well-being is not a luxury, but the very foundation of healthy communities.",
+        "Through our flagship program, 'Owning Your Feelings' (OYF), we have spent the past year building empathetic listening networks inside college campuses and municipal centers. By training volunteer peers, teachers, and student champions, we are breaking down the historical stigmas surrounding mental health care.",
+        "This month, we successfully completed a series of intensive workshops at Cotton University and Handique Girls' College in Guwahati. These interactive circles focused on emotional boundaries, active listening, and constructive conflict resolution. Our workbook exercises encouraged participants to journal their trigger responses and identify peer holding spaces where they can speak without judgment.",
+        "Simultaneously, at our Mumbai Naka Base, we have paired clinical guidance with community-driven circles. The outcome of this dual-approach has been remarkable. We have seen a 40% reduction in self-reported anxiety scales among regular cohort participants, proving that structural empathy can heal communities in ways that traditional isolated approaches cannot."
+      ],
+      "category": "Mental Health",
+      "author": "Dr. Arundhati Barua",
+      "authorRole": "Consulting Clinical Lead",
+      "date": "May 18, 2026",
+      "readTime": "5 min read",
+      "imageColor": "bg-[#FCF7E6]",
+      "emoji": "🧠",
+      "likes": 68
+    },
+    {
+      "id": 3,
+      "title": "Nurturing Civic Resilience: Audited Financials & Transparency as a Foundation",
+      "excerpt": "Transparency isn't just about spreadsheets; it is a civic duty. DIF celebrates its registration with NITI Aayog's Darpan Portal and outlines its commitment to direct program routing.",
+      "content": [
+        "NEW DELHI / MUMBAI — In the non-profit sector, trust is the currency that fuels change. At Deepjyoti India Foundation, we hold ourselves to the highest standards of financial integrity and civic governance. We believe that every single rupee pledged by our partners and individual donors must be tracked, audited, and spent directly on program deliverables.",
+        "This quarter, we are pleased to present our fully compiled Audited Financial Statements, confirming that 100% of individual and corporate CSR donations are routed directly to on-field health clinics, school supplies, and emotional literacy toolkits. Our central administrative overheads continue to be funded independently by our Board of Trustees.",
+        "Furthermore, our official registration with NITI Aayog's NGO-Darpan Portal has been successfully updated, solidifying our standing as a fully compliant, collaborative partner for government agencies and corporate CSR departments.",
+        "We invite all our stakeholders, partners, and community members to review our detailed financials under the 'Financials' tab. By maintaining radical transparency, we demonstrate that a lean, values-driven NGO can achieve scalable community impact with perfect alignment between donor intent and on-the-ground outcomes."
+      ],
+      "category": "Governance",
+      "author": "Board of Trustees",
+      "authorRole": "DIF Finance Desk",
+      "date": "April 30, 2026",
+      "readTime": "3 min read",
+      "imageColor": "bg-[#EBF7F4]",
+      "emoji": "📋",
+      "likes": 31
+    },
+    {
+      "id": 4,
+      "title": "The Power of Therapeutic Joy: Pediatric Clown Drives in Mumbai Municipal Wards",
+      "excerpt": "Laughter as medicine: how our trained therapeutic clowns bring pediatric emotional support and relief to municipal clinics and geriatric centers.",
+      "content": [
+        "MUMBAI, MAHARASHTRA — Clinical environments can often feel sterile, intimidating, and emotionally draining, especially for children undergoing intensive treatments. To combat this emotional strain, DIF's Mumbai Naka Base has pioneered a dedicated Therapeutic Hospital Clowning program.",
+        "Our team of trained clowns—equipped with soft skills, emotional intelligence training, and a deep understanding of medical environments—visits municipal pediatric wards and geriatric care centers twice a week. Through gentle humor, magic tricks, custom stories, and creative drama, they help transform these spaces into rooms of active, restorative joy.",
+        "The results go far beyond simple smiles. Medical staff have consistently noted that patients' stress markers decrease, and their cooperative behavior during complex procedures increases when our therapeutic clowns are present. For elderly residents, these interactions provide deep cognitive stimulation, nostalgic reflection, and a vital feeling of being heard and valued.",
+        "Laughter is a core component of the healing process. By introducing structured therapeutic joy into municipal hospital wings, we are addressing the mental well-being of patients alongside their physical treatments, bringing holistic health to where it is needed most."
+      ],
+      "category": "Community",
+      "author": "Rohan Shirke",
+      "authorRole": "Pediatric Joy Coordinator",
+      "date": "March 12, 2026",
+      "readTime": "4 min read",
+      "imageColor": "bg-mhe-orange-light",
+      "emoji": "🎈",
+      "likes": 54
+    },
+    {
+      "id": 5,
+      "title": "The Silent Resilience of Hills: Academic Counseling in the Shelters of Shillong",
+      "excerpt": "DIF is expanding support networks to adolescents in Shillong's Ferrando Shelter Home, delivering positive youth orientation and career counseling.",
+      "content": [
+        "SHILLONG, MEGHALAYA — In the quiet hills of Meghalaya, young students face distinct academic and social obstacles. Academic anxiety, lack of structured career resources, and economic factors often limit the goals of bright youth.",
+        "Deepjyoti India Foundation has partnered with local educators and the Ferrando Shelter Home in Shillong to launch a series of intensive academic path workshops and youth orientation circles. Rather than focusing purely on grade scores, our curriculum emphasizes self-reflection, personal strengths, and emotional coping mechanisms for exam-related anxiety.",
+        "Our facilitators worked directly with girls in Classes 9 and 10 to establish collaborative study circles, peer encouragement logs, and personalized career roadmaps. By connecting these adolescents with positive professional mentors and training them in confidence-building exercises, we are sparking a durable cycle of ambition and community action.",
+        "As we enter the next school term, we are planning to scale this model to three more remote schools in East Khasi Hills. The silent resilience of these children is an inspiration, and we are committed to providing the structural holding spaces they deserve."
+      ],
+      "category": "Community",
+      "author": "Banri Kharkongor",
+      "authorRole": "Shillong Program Lead",
+      "date": "February 27, 2026",
+      "readTime": "6 min read",
+      "imageColor": "bg-mhe-teal-light",
+      "emoji": "🏔️",
+      "likes": 49
+    }
+  ],
+  "GALLERY_ITEMS": [
+    {
+      "url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80&w=600",
+      "title": "Community Health Screening Camp, Bonda Narengi",
+      "category": "Preventive Care",
+      "domainId": "health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=600",
+      "title": "First Aid Demonstration with Red Cross Society trainers",
+      "category": "BLS Training",
+      "domainId": "health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=600",
+      "title": "Regular vitals screening for rural elderly and children",
+      "category": "Preventive Care",
+      "domainId": "health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=600",
+      "title": "Local auxiliary nurses conducting immunization awareness sessions",
+      "category": "Preventive Care",
+      "domainId": "health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=600",
+      "title": "Hands-on Basic Life Support & CPR Demonstration",
+      "category": "Emergency Preparedness Video",
+      "domainId": "health",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1584515222906-5a3892404349?auto=format&fit=crop&q=80&w=600",
+      "title": "Project Sampoorna Mobile Clinic & Physician Consultations",
+      "category": "Mobile Camp Video",
+      "domainId": "health",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=600",
+      "title": "Guwahati Yoga & Stress Relief Workshops",
+      "category": "Mental Health",
+      "domainId": "mental_health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=600",
+      "title": "OYF Discussion Circle at Handique Girls' College",
+      "category": "Emotional Literacy",
+      "domainId": "mental_health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=600",
+      "title": "Outdoor mindful breathing and somatic resilience workshop",
+      "category": "Mental Health",
+      "domainId": "mental_health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1461532241246-13355554743b?auto=format&fit=crop&q=80&w=600",
+      "title": "Support group circles foster mental well-being and emotional sharing",
+      "category": "Emotional Literacy",
+      "domainId": "mental_health",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&q=80&w=600",
+      "title": "Interactive Group Exercises & Emotional Literacy Discussions",
+      "category": "Emotional Mindfulness Video",
+      "domainId": "mental_health",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&q=80&w=600",
+      "title": "Therapeutic Laughter Session with Medical Clowning",
+      "category": "Medical Clowning Video",
+      "domainId": "mental_health",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1516534775068-ba3e84589d90?auto=format&fit=crop&q=80&w=600",
+      "title": "Career Counselling for Class 9 & 10 Studens in Shillong",
+      "category": "Youth Development",
+      "domainId": "youth_development",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&q=80&w=600",
+      "title": "Joy of Giving festive santa distribution",
+      "category": "Community Joy",
+      "domainId": "youth_development",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=600",
+      "title": "Interactive group work during soft skills and confidence building bootcamps",
+      "category": "Youth Development",
+      "domainId": "youth_development",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=600",
+      "title": "Youth public speaking training session in secondary schools",
+      "category": "Youth Development",
+      "domainId": "youth_development",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&q=80&w=600",
+      "title": "Ferrando Shelter Home Entrepreneurship Lectures",
+      "category": "Skill Building Video",
+      "domainId": "youth_development",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=600",
+      "title": "Shillong College Youth Interest Reflection Session",
+      "category": "Youth Consultation Video",
+      "domainId": "youth_development",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+      "title": "Master Health Card Verification & Field Audits",
+      "category": "Data Integration",
+      "domainId": "research",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=600",
+      "title": "Longitudinal Community Health Parameters Collection",
+      "category": "Grassroots Research",
+      "domainId": "research",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=600",
+      "title": "Grassroots survey enumerators planning village household mapping",
+      "category": "Grassroots Research",
+      "domainId": "research",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+      "title": "Bi-annual community health indicators and comparative trend analysis",
+      "category": "Data Integration",
+      "domainId": "research",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=600",
+      "title": "Evidence-Based Community Care Design Framework Presentation",
+      "category": "Strategic Models Video",
+      "domainId": "research",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600",
+      "title": "Project Sampoorna Assam Health Data Analysis Report",
+      "category": "Survey Data Video",
+      "domainId": "research",
+      "type": "video",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4"
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "id": "t1",
+      "text": "The program organized today by Deepjyoti India Foundation is actually very important. The First Aid training has been conducted in many schools through the JRC and YRC from the Indian Red Cross Society. However, if you invite us again in the future, we will make the students aware of it. If people are aware of First Aid, then during emergencies such as accidents, electric shocks, or other sudden situations, we can provide immediate help using the available resources. If people know these basic techniques, it will definitely benefit society. If we regularly conduct such training in schools, people can learn CPR and know what to do when someone has a heart attack. In such situations, we may be able to help and possibly save someone's life. We even have real examples, even after someone has a heart attack, once they are taken to the doctor, we can still help.",
+      "author": "Indian Red Cross Society Representative",
+      "location": "First Aid & CPR Training Event, Guwahati"
+    },
+    {
+      "id": "t2",
+      "text": "Today, a health awareness camp was organized in our school by Deepjyoti India Foundation. We benefited greatly from this camp. The students had their eyes checked for various diseases. They were given advice based on whether they had any health problems or not. In addition, a demonstration was given to the students on how to perform CPR (Cardiopulmonary Resuscitation). The students learned a lot from this, and it will help them during emergency situations. I would like to express my sincere thanks to Deepjyoti India Foundation, and we hope to have more such camps in the future. Thank You.",
+      "author": "School Coordinator & Teacher",
+      "location": "Guwahati Student Health Camp"
+    },
+    {
+      "id": "t3",
+      "text": "During the health camp, doctors were present and educated us, (womens) about menstrual health issues. They also Informed us about cervical cancer, which has created an alarming situation across india. I'm happy that steps are being taken to raise awareness. I believe these women will also create awareness among other women in the village, inform the nearby women, and educate their children in the same way. Thank you.",
+      "author": "Self-Help Group Member / Village Participant",
+      "location": "Women's Health Camp, Bonda"
+    },
+    {
+      "id": "t4",
+      "text": "Today's session was really helpful. It helped us with identifying our own thoughts and in turn that helped us regulate our emotions. We had a very good interactive session as well wherein we discussed our thoughts and did an activity where we identified the situation and the emotion and our thoughts and work on them. So the activity which was held in today's session was really very interactive and it was also very interesting for the students and it help us to identify our thoughts, emotions and to reflect on our basically on our thinking pattern and cognitive functioning. So yes we have enjoyed today's session.",
+      "author": "OYF Participant Student",
+      "location": "Handique Girls' College Session, Guwahati"
+    },
+    {
+      "id": "t5",
+      "text": "These life skills sessions helped me rediscover my confidence. I use what I learned every day.",
+      "author": "Baishali",
+      "location": "College Cohort Student, Guwahati"
+    },
+    {
+      "id": "t6",
+      "text": "The derma camp treated my years-old skin problems. I can finally go out without shame.",
+      "author": "Mrs. Sharma",
+      "location": "Community Health Beneficiary, Guwahati"
+    },
+    {
+      "id": "t7",
+      "text": "The clowning sessions made me laugh again during treatment. It meant the world to me.",
+      "author": "Hospital Patient Participant",
+      "location": "Medical Clowning Event, Mumbai"
+    }
+  ],
+  "LOGO_URL": "/LOGO_lite.png",
+  "BOARD_MEMBERS": [
+    {
+      "name": "Ashok Garg",
+      "role": "Founder, Deepjyoti India Foundation",
+      "avatar": "/father 2.PNG",
+      "bio": "Guided by the belief that societal progress begins when health and dignity are placed at the center of development, Ashok helps DIF translate strategic plans into long-term community partnerships.",
+      "quote": "Our journey has been guided by a simple yet enduring belief that true progress in society begins when health, emotional wellbeing, and human dignity are placed at the centre of development.",
+      "region": "Mumbai"
+    },
+    {
+      "name": "Taranna Deepjyoti Garg",
+      "role": "Founder, Deepjyoti India Foundation",
+      "avatar": "/Taranna.JPG",
+      "bio": "Taranna founded DIF to align primary physical screenings with youth emotional resilience, establishing the flagship Project Sampoorna and OYF programs across multiple states.",
+      "quote": "Meaningful social change rarely happens in a straight line. It unfolds through learning, community collaboration, and a deep commitment to listening to the people we serve.",
+      "region": "Mumbai"
+    },
+    {
+      "name": "Deepshika Garg",
+      "role": "Entrepreneur",
+      "avatar": "/sis2.webp",
+      "bio": "Deepshika manages school youth counseling systems and OYF cohorts, ensuring child development and school-level support are handled with absolute Care and clinical fidelity.",
+      "quote": "Empathy in action transforms standard clinical screenings into spaces of deep warmth and developmental growth.",
+      "region": "Mumbai"
+    },
+    {
+      "name": "Amrita Borkotoky",
+      "role": "Program Director",
+      "avatar": "/Amrita Borkotoky.jpeg",
+      "bio": "Amrita directs program execution and field coordination for OYF and Project Sampoorna, ensuring clinical diagnostic fidelity and emotional support services are met seamlessly on the ground.",
+      "quote": "We strive to bridge the critical gaps between community challenges and access to mental health and healthcare support. Our journey continues to be guided by compassion and collaboration.",
+      "region": "Guwahati, Assam"
+    },
+    {
+      "name": "Murchana",
+      "role": "Program coordinator",
+      "avatar": "/Murchana.JPG",
+      "bio": "Murchana spearheads the OYF (Owning Your Feelings) emotional literacy cohorts, facilitating interactive wellness workshops and reflective development clinics for students.",
+      "quote": "Mental health awareness begins with acknowledgment. Once we own our feelings, the path to healing opens.",
+      "region": "Assam"
+    },
+    {
+      "name": "Deep Jyoti Saikia",
+      "role": "Media Design Head",
+      "avatar": "/Deep%20Jyoti%20Saikia.JPG",
+      "bio": "Deep Jyoti coordinates the ground logistics of Project Sampoorna across Assam, ensuring mobile medical units and outreach clinics reach remote or underserved communities with efficiency.",
+      "quote": "Reaching the unreached with high-quality healthcare is not just a duty; it is our foundation.",
+      "region": "Assam"
+    },
+    {
+      "name": "Dharmendra Bansal",
+      "role": "Accounts Head",
+      "avatar": "/accountant.jpeg",
+      "bio": "Dharmendra oversees budgetary accountability, compliance audits, and absolute transparency in the allocation of programmatic resources for DIF's field clinics.",
+      "quote": "Every rupee accounted for and directed to targeted clinics ensures trust and sustainable community impact.",
+      "region": "Mumbai"
+    },
+    {
+      "name": "Puja Sinha",
+      "role": "HR Head",
+      "avatar": "/sis.jpeg",
+      "bio": "Puja directs human resources, volunteer onboarding, and staff welfare across DIF's regional offices, fostering a compassionate, purpose-driven team environment.",
+      "quote": "Our people are our greatest strength; empowering the team ensures we can serve our communities with ultimate dedication.",
+      "region": "Mumbai"
+    }
+  ]
+}

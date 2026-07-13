@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", system-ui, sans-serif;
+  --font-display: "Quicksand", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --color-mhe-teal: #0D5B67;
+  --color-mhe-teal-dark: #07383F;
+  --color-mhe-teal-light: #E6EFEE;
+  --color-mhe-orange: #E65F2B;
+  --color-mhe-orange-light: #FEF0EA;
+  --color-mhe-yellow: #FABD24;
+  --color-mhe-mint: #A1DFD0;
+  --color-mhe-cream: #FAF8F5;
+  --color-mhe-charcoal: #1C2E31;
+  --color-mhe-green: #22C55E;
+}
+
+/* Custom styles for bold, creative Mental Health Europe styling */
+.mhe-card-shadow {
+  box-shadow: 6px 6px 0px 0px #1C2E31;
+  border: 2px solid #1C2E31;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.mhe-card-shadow:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 9px 9px 0px 0px #1C2E31;
+}
+
+.mhe-badge-shadow {
+  border: 1.5px solid #1C2E31;
+  box-shadow: 2px 2px 0px 0px #1C2E31;
+}
+
+.mhe-btn-orange {
+  background-color: #E65F2B;
+  color: white;
+  border: 2px solid #1C2E31;
+  box-shadow: 4px 4px 0px 0px #1C2E31;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 800;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.mhe-btn-orange:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px 0px #1C2E31;
+  background-color: #f06c39;
+}
+
+.mhe-btn-orange:active {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0px 0px #1C2E31;
+}
+
+.mhe-btn-teal {
+  background-color: #0D5B67;
+  color: white;
+  border: 2px solid #1C2E31;
+  box-shadow: 4px 4px 0px 0px #1C2E31;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 800;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.mhe-btn-teal:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px 0px #1C2E31;
+  background-color: #12717f;
+}
+
+.mhe-btn-teal:active {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0px 0px #1C2E31;
+}
+
+.mhe-btn-outline {
+  background-color: transparent;
+  color: #1C2E31;
+  border: 2px solid #1C2E31;
+  box-shadow: 4px 4px 0px 0px #1C2E31;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 800;
+  transition: all 0.2s ease;
+}
+
+.mhe-btn-outline:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px 0px #1C2E31;
+  background-color: #FAF8F5;
+}
+
+/* Custom scrollbar matching the theme */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #0D5B67;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E65F2B;
+}
+
+/* Smooth Scrolling and responsive base font size */
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+/* Custom Navigation option hover & click states */
+.mhe-nav-option {
+  width: 100%;
+  text-align: left;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  border-radius: 0.75rem;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  border: 2px solid #1C2E31;
+  transition: all 150ms ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.mhe-nav-option-inactive {
+  background-color: #FFFFFF !important;
+  color: #1C2E31 !important;
+  box-shadow: none !important;
+}
+
+.mhe-nav-option-active {
+  background-color: #0D5B67 !important;
+  color: #FFFFFF !important;
+  border-color: #1C2E31 !important;
+  box-shadow: 4px 4px 0px 0px #1C2E31 !important;
+}
+
+.mhe-nav-option:hover {
+  background-color: #E65F2B !important;
+  color: #FFFFFF !important;
+  transform: translateY(-2px);
+  box-shadow: 4px 4px 0px 0px #1C2E31 !important;
+}
+
+/* Card Flip Styles */
+.perspective-1000 {
+  perspective: 1000px;
+}
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+

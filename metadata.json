@@ -1,0 +1,6 @@
+{
+  "name": "DIF Sampoorna",
+  "description": "An interactive, bold, and creative NGO website for Deepjyoti India Foundation (DIF) showcasing the Sampoorna initiatives in primary education, free health clinics, women's vocational training, and environmental restoration in Northeast India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
