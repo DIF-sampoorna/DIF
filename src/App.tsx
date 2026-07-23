@@ -434,7 +434,7 @@ export default function App() {
 
   // Fetch CMS data on mount
   useEffect(() => {
-    fetch('/api/cms')
+    fetch('/api/cms?t=' + Date.now())
       .then(res => res.json())
       .then(data => {
         if (data) {
@@ -871,10 +871,15 @@ export default function App() {
 
     const updatedBlog = [newPost, ...currentBlogPosts];
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: currentHeroVideos,
       BLOG_POSTS: updatedBlog,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: currentTestimonials
+      TESTIMONIALS: currentTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);
@@ -889,10 +894,15 @@ export default function App() {
   const handleDeleteBlogPost = (idToDelete: number) => {
     const updatedBlog = currentBlogPosts.filter(post => post.id !== idToDelete);
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: currentHeroVideos,
       BLOG_POSTS: updatedBlog,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: currentTestimonials
+      TESTIMONIALS: currentTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);
@@ -914,10 +924,15 @@ export default function App() {
     };
     const updatedTestimonials = [newTesti, ...currentTestimonials];
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: currentHeroVideos,
       BLOG_POSTS: currentBlogPosts,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: updatedTestimonials
+      TESTIMONIALS: updatedTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);
@@ -932,10 +947,15 @@ export default function App() {
   const handleDeleteTestimonial = (idToDelete: string) => {
     const updatedTestimonials = currentTestimonials.filter(t => t.id !== idToDelete);
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: currentHeroVideos,
       BLOG_POSTS: currentBlogPosts,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: updatedTestimonials
+      TESTIMONIALS: updatedTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);
@@ -983,10 +1003,15 @@ export default function App() {
     if (!newVideoUrl) return;
     const updatedVideos = [...currentHeroVideos, newVideoUrl];
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: updatedVideos,
       BLOG_POSTS: currentBlogPosts,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: currentTestimonials
+      TESTIMONIALS: currentTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);
@@ -1005,10 +1030,15 @@ export default function App() {
       setCurrentHeroVideoIndex(0);
     }
     const updatedCms = {
+      ...cmsData,
       HERO_VIDEOS: updatedVideos,
       BLOG_POSTS: currentBlogPosts,
       GALLERY_ITEMS: currentGalleryItems,
-      TESTIMONIALS: currentTestimonials
+      TESTIMONIALS: currentTestimonials,
+      BOARD_MEMBERS: currentBoardMembers,
+      LOGO_URL: currentLogoUrl,
+      GALLERY_CATEGORIES: currentGalleryCategories,
+      GALLERY_DOMAINS: currentGalleryDomains
     };
     setCmsData(updatedCms);
     syncCmsData(updatedCms);

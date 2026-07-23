@@ -295,6 +295,7 @@ app.post("/api/upload", (req, res) => {
 });
 
 app.get("/api/cms", (req, res) => {
+  res.setHeader("Cache-Control", "no-store, no-cache, must-revalidate, proxy-revalidate");
   const data = readCMSData();
   if (data) {
     return res.json(data);
